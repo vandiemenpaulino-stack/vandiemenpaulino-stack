@@ -59,6 +59,7 @@
 | [PROJECTS](https://github.com/vandiemenpaulino-stack/PROJECTS) | All of my projects during my college era | HTML |
 | [CSElec1-Mobile-Prog-1---Activities](https://github.com/vandiemenpaulino-stack/CSElec1-Mobile-Prog-1---Activities) | Mobile Programming activities | JavaScript |
 | [ITE-2---Computer-Programming-1](https://github.com/vandiemenpaulino-stack/ITE-2---Computer-Programming-1) | My 1st year activities in Computer Programming 1 at NwSSU - Main Campus | Java |
+| [Code-O-CoD?](https://github.com/vandiemenpaulino-stack/CODE-O-COD-) | My Basic coding programs in different programming languages | Java, JavaScript, Python, CSS |
 
 ---
 
