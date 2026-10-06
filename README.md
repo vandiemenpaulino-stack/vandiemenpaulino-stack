@@ -18,8 +18,10 @@
 
 ## 👋 About Me
 
-- 🏫 Student at **NwSSU - Main Campus**
-- 🧑‍💼 **Secretary** of CSC-CCIS
+- 🏫 Student at **Northwest Samar State University - Main Campus**
+- 📌 **Membership Chairperson** at the Rotaract Club of Greater - NwSSU
+- 🧑‍💼 **Former Secretary** of the Computer Science Students' Society (CS3) 
+- 🧑‍💼 **Secretary and a Former 1st Year Rep** of the Collegiate Student Council - College of Computing and Information Sciences
 - 📫 Contact me at [vandiemenpaulino@gmail.com](mailto:vandiemenpaulino@gmail.com)
 - 🌱 Currently learning: *(CS301, CS302, CS303, CSElec1, GEElec3)*
 - 🚀 Currently building: *(Estetika BentaTrack, and Ceby Itenirary)*
