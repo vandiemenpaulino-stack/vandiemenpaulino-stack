@@ -21,16 +21,16 @@
 - 🏫 Student at **NwSSU - Main Campus**
 - 🧑‍💼 **Secretary** of CSC-CCIS
 - 📫 Contact me at [vandiemenpaulino@gmail.com](mailto:vandiemenpaulino@gmail.com)
-- 🌱 Currently learning: *(add what you're learning, e.g. Mobile Programming)*
-- 🚀 Currently building: *(add your current project)*
+- 🌱 Currently learning: *(CS301, CS302, CS303, CSElec1, GEElec3)*
+- 🚀 Currently building: *(Estetika BentaTrack, and Ceby Itenirary)*
 
 <details>
   <summary>✨ <b>Click to see more about me</b></summary>
   <br>
 
-  - 🎓 Course: *(your course / year level)*
-  - 🎯 Goal: *(your goal, e.g. become a software developer)*
-  - 💡 Fun fact: *(add something fun!)*
+  - 🎓 Course: *(bs in computer science 3B)*
+  - 🎯 Goal: *(become a software consultant)*
+  - 💡 Fun fact: *(i love to watch movies in netflix and play video games like minecraft and roblox)*
 </details>
 
 ---
